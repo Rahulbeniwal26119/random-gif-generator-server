@@ -1,5 +1,5 @@
 ### Dynamic Gif Generator Server Created By Go 
-
+## base url = localhost:8000
 ## End Points
 <img src="https://github.com/Rahulbeniwal26119/random-gif-generator-server/blob/master/screenshot/Screenshot%20from%202021-08-12%2019-05-32.png" align="center">
 
